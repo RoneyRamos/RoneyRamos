@@ -32,7 +32,7 @@ Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigê
 
 ## 🛠️ Competências Técnicas (Hard Skills)
 
-* **Linguagens & Web:** HTML5, CSS3, JavaScript (ES6+) e Lógica de Programação.
+* **Linguagens & Web:** HTML5, CSS3, JavaScript (ES6+), PHP (MySQL) e Lógica de Programação.
 * **Sistemas & Dados:** Sistemas OCR, Tratamento de Arquivos Digitais e Pacote Office Avançado.
 * **Infraestrutura:** Suporte Técnico, Diagnóstico de Hardware/Software e Gestão de Redes Sociais.
 * **Áreas de Estudo Atual:** Metodologias Ágeis (Scrum/Kanban), Cybersecurity e Engenharia de Software.
