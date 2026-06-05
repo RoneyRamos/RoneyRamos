@@ -16,7 +16,7 @@ Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigê
 ---
 
 ## 🎯 Objetivo Profissional
-* Conquistar minha primeira oportunidade de mercado como **Desenvolvedor Júnior (Frontend/Fullstack) ou Estagiário em Tecnologia da Informação**.
+* Alcançar minha primeira oportunidade de mercado como **Desenvolvedor Júnior (Frontend/Fullstack) ou Estagiário em Tecnologia da Informação**.
 * Integrar squads ágeis onde eu possa aplicar meus conhecimentos lógicos, colaborar ativamente em projetos reais e acelerar minha evolução técnica.
 
 ---
