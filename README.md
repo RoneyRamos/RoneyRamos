@@ -64,7 +64,7 @@ Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigê
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝 Para entrar em contato!
 
 Seja para discutir um projeto, trocar ideias sobre desenvolvimento web ou falar sobre tecnologia, sinta-se à vontade para entrar em contato!
 
