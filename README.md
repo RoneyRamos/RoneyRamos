@@ -75,3 +75,10 @@ Seja para discutir um projeto, trocar ideias sobre desenvolvimento web ou falar 
 
 ---
 <p align="center"><i>"A tecnologia move o mundo, mas a disciplina constrói o caminho."</i></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoneyRamos/RoneyRamos/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoneyRamos/RoneyRamos/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RoneyRamos/RoneyRamos/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
