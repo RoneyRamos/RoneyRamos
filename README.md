@@ -58,9 +58,18 @@ Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigê
 
 ### 📈 Contribuições & Atividade
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoneyRamos&theme=tokyonight" alt="GitHub Streak" />
-</div>
+## 🤝 Contribuindo
+
+Contribuições são sempre bem-vindas! Se você quiser ajudar a melhorar este projeto, siga os passos abaixo:
+
+1. Faça um **Fork** do repositório.
+2. Crie uma *branch* para a sua funcionalidade (`git checkout -b minha-feature`).
+3. Faça o *Commit* das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça o *Push* para a *branch* (`git push origin minha-feature`).
+5. Abra um **Pull Request**.
+
+Qualquer dúvida ou sugestão, sinta-se à vontade para abrir uma **Issue**.
+
 
 ---
 
