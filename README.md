@@ -9,7 +9,7 @@
 
 # 🚀 Sobre Mim
 
-Olá! eu sou o  **Roney Silva Ramos** e sou um profissional em transição de carreira focado em me tornar **Programador Júnior ou Estagiário em TI**. Atualmente, curso Análise e Desenvolvimento de Sistemas na Firjan Senai SESI, onde canalizo minha paixão por tecnologia no desenvolvimento de softwares eficientes, funcionais e focados na resolução de problemas reais.
+Olá! eu sou o  **Roney Silva Ramos** e sou um profissional focado!!!!, **Programador Júnior**. Atualmente, curso Análise e Desenvolvimento de Sistemas na Firjan Senai SESI, onde canalizo minha paixão por tecnologia no desenvolvimento de softwares eficientes, funcionais e focados na resolução de problemas reais.
 
 Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigência, o que me proporcionou uma base rígida de **disciplina, adaptabilidade e pensamento analítico**.
 
