@@ -9,14 +9,14 @@
 
 # 🚀 Sobre Mim
 
-Olá! eu sou o  **Roney Silva Ramos** e sou um profissional focado!!!!, **Programador Júnior**. Atualmente, curso Análise e Desenvolvimento de Sistemas na Firjan Senai SESI, onde canalizo minha paixão por tecnologia no desenvolvimento de softwares eficientes, funcionais e focados na resolução de problemas reais.
+Olá! eu sou o  **Roney Silva Ramos** e sou um profissional focado!!!!, **Programador Júnior**. Atualmente, cursei Análise e Desenvolvimento de Sistemas na Firjan Senai SESI e atualmente estudo Cybersecurity na PUC-RJ, onde canalizo minha paixão por tecnologia no desenvolvimento de softwares eficientes, funcionais e focados na resolução de problemas reais.
 
 Minha trajetória é marcada por uma sólida bagagem em ambientes de alta exigência, o que me proporcionou uma base rígida de **disciplina, adaptabilidade e pensamento analítico**.
 
 ---
 
 ## 🎯 Objetivo Profissional
-* Alcançar minha primeira oportunidade de mercado como **Desenvolvedor Júnior (Frontend/Fullstack) ou Estagiário em Tecnologia da Informação**.
+* Continuar minha evolução pessoal e profissonal como **Desenvolvedor  (Fullstack)  em Tecnologia da Informação**.
 * Integrar squads ágeis onde eu possa aplicar meus conhecimentos lógicos, colaborar ativamente em projetos reais e acelerar minha evolução técnica.
 
 ---
